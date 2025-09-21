@@ -2,7 +2,7 @@
 
 **`Desenvolvedor`**
 
-Me chamo Jamykson Freitas, tenho 23 anos e sou natural do Rio Grande do Norte. Concluí o ensino médio no IFRN. Atualmente, estou cursando Técnologia da Informação na UFRN.
+Me chamo Jamykson Freitas, tenho 23 anos e sou natural do Rio Grande do Norte. Concluí o ensino médio no IFRN. Atualmente, estou cursando Tecnologia da Informação na UFRN. Atuo como voluntário na Include Engenharia, além de ser membro do Ramo Estudantil IEEE UFRN, contribuindo como voluntário na IES (Industrial Electronics Society).
 
 <p align="left">
 <a href="https://linkedin.com/in/jamykson/">
